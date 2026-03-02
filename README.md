@@ -4,4 +4,9 @@ This repository contains the Phase 1 implementation of the MotorPH Payroll Syste
 It automates employee attendance tracking and weekly salary computation with mandatory deductions.
 =======
 # MO-IT101-Group7
-MotorPH Payroll System
+
+**Team Members:**
+DEBORAH BEULAH CRUZ
+ABIGAIL AGNES 
+AILA MAY SALASBAR 
+CZARMAINE ALTHEA BARCILLANO
